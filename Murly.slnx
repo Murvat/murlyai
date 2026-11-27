@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="server/Murly.Api.csproj" />
+  <Project Path="tests/Murly.Tests.csproj" />
+</Solution>

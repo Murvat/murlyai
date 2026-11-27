@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Murly local demo": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5074",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Demo__Enabled": "true",
+        "Demo__MockTutor": "true"
+      }
+    }
+  }
+}

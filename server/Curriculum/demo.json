@@ -1,0 +1,36 @@
+[
+  {
+    "id": "say-hello",
+    "title": "Say hello",
+    "targetLanguage": "Spanish",
+    "displayOrder": 1,
+    "openingContent": "Start with three greetings you can use in everyday Spanish. A simple **hola** is enough to start a conversation at any time of day.",
+    "examples": [
+      { "phrase": "Hola", "translation": "Hello" },
+      { "phrase": "Buenos días", "translation": "Good morning" },
+      { "phrase": "¿Cómo estás?", "translation": "How are you?" }
+    ]
+  },
+  {
+    "id": "introduce-yourself",
+    "title": "Introduce yourself",
+    "targetLanguage": "Spanish",
+    "displayOrder": 2,
+    "openingContent": "Use **me llamo** followed by your name to introduce yourself. You can say **mucho gusto** when you meet someone.",
+    "examples": [
+      { "phrase": "Me llamo Ana.", "translation": "My name is Ana." },
+      { "phrase": "Mucho gusto.", "translation": "Nice to meet you." }
+    ]
+  },
+  {
+    "id": "order-a-coffee",
+    "title": "Order a coffee",
+    "targetLanguage": "Spanish",
+    "displayOrder": 3,
+    "openingContent": "Use **quisiera** to ask for something politely. Add **por favor** at the end of your order.",
+    "examples": [
+      { "phrase": "Quisiera un café, por favor.", "translation": "I’d like a coffee, please." },
+      { "phrase": "La cuenta, por favor.", "translation": "The check, please." }
+    ]
+  }
+]
